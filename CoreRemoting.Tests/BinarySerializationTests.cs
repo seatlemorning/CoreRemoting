@@ -3,6 +3,7 @@ using CoreRemoting.RpcMessaging;
 using CoreRemoting.Serialization.Binary;
 using CoreRemoting.Tests.Tools;
 using Xunit;
+using System.Reflection;
 
 namespace CoreRemoting.Tests;
 
